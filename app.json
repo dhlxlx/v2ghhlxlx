@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/onetyfgyu/dhlxlx/v2ghhlxlx",
-  "repository": "https://github.com/onetyfgyu/dhlxlx/v2ghhlxlx",
+  "website": "https://github.com/dhlxlx/v2ghhlxlx",
+  "repository": "https://github.com/dhlxlx/v2ghhlxlx",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
